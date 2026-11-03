@@ -413,7 +413,7 @@ Yes. Any model Ollama can serve will work. Change the model names in the configu
 
 <div align="center">
 
-**Built by Manas**
+**Built by Manas & AJ**
 
 <sub>Sift through the noise. Keep the signal.</sub>
 
